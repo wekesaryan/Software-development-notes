@@ -17,7 +17,7 @@ Coding is the process of writing instructions that tell a computer what to do.
 
 -----------------------------------------------------------------
 
-Frontend development. 
+# Frontend development. 
  
 Programming language
  - Python
@@ -28,16 +28,16 @@ Programming language
  - Git
 
 
-Debugging.
+### Debugging Methods.
 
-Google error message 
-Stack overflow 
-AI chatbots
+- Google error message 
+- Stack overflow 
+- AI chatbots
 
 
 -----------------------------------------------------------------
   
-Security best practices.
+## Security best practices.
 
 1. Data encryption
 2. Authentication 
@@ -48,20 +48,21 @@ Security best practices.
 
 
 
-Coding standards
-    - Language syntax
-    - Clean code (SOLID principles)
-    - Documentation 
-    - Refactoring 
+### Coding standards
+
+ - Language syntax
+ - Clean code (SOLID principles)
+ - Documentation 
+ - Refactoring 
 
 
 -----------------------------------------------------------------
 
 
 
-     Data serialization languages.
+### Data serialization languages.
 
-Serialization is the process of converting a data object into a series of bytes that saves the state of the object in an easily transmittable form.
+- Serialization is the process of converting a data object into a series of bytes that saves the state of the object in an easily transmittable form.
 
 - JSON: key-value pairs 
 - XML: A markup language  
@@ -72,8 +73,13 @@ Serialization is the process of converting a data object into a series of bytes 
 - MessagePack
 - Customer binary 
 
-Popular programming languages with serialization support: 
-Java, .NET, C++, Node.js, Python, and Go
+- Popular programming languages with serialization support: 
+- Java
+- .NET
+- C++
+- Node.js
+- Python
+- Go
 
 
 
@@ -113,9 +119,7 @@ Types of APIs
 
    API tools
 1. Postman
-
 2. Rapid API marketplace 
-
 3. HTTPie for web
 4. REST fox 
 5. API stack
@@ -135,40 +139,40 @@ Encoded in base64
 
 -----------------------------------------------------------------
 
-z# Version Control.    
+# Version Control.    
 
-Git
+- Git
 
-Git environments.
-Working files
-Staging 
-Commit
+### Git environments.
+- Working files
+- Staging 
+- Commit
 
 
    Git commands
-Clone 
-Add
-Commit
-Push 
-Pull
+- Clone 
+- Add
+- Commit
+- Push 
+- Pull
 
 
 Repo hosting services 
-Github
-Gitlab 
-Bitbucket 
+- Github
+- Gitlab 
+- Bitbucket
+
+
 -----------------------------------------------------------------
 
 # Backend development 
 
 
-
-
 Open Source Tools for backend 
 
-Nitric - https://dub.sh/nitric
-Appwrite - https://appwrite.io/
-Manifest - https://manifest.build/
+- Nitric - https://dub.sh/nitric
+- Appwrite - https://appwrite.io/
+- Manifest - https://manifest.build/
 
 -----------------------------------------------------------------
 
@@ -177,8 +181,8 @@ Manifest - https://manifest.build/
 
 - Software development using AI tools and other automation tools
 
-Odoo - odoo.com
-N8n - n8n.io
+- Odoo - odoo.com
+- N8n - n8n.io
 
 
 -----------------------------------------------------------------
@@ -191,27 +195,28 @@ N8n - n8n.io
 
 
 
-Outline - getoutline.com
-AFFiNE - affine.pro
+- Outline - getoutline.com
+- AFFiNE - affine.pro
 
 -----------------------------------------------------------------
 
 # Content Management Systems(CMS) 
 
 
-Wordpress- wordpress.com
-Fuel CMS - getfuelcms.com
-Ghost CMS - ghost.org
-Payload - payloadcms.com
+- Wordpress- wordpress.com
+- Fuel CMS - getfuelcms.com
+- Ghost CMS - ghost.org
+- Payload - payloadcms.com
 
 -----------------------------------------------------------------
 
 # Community involvement.
 
 1. Open source contribution 
-       - Github
-       - Leet code 
+- Github
+- Leet code 
 
+Ways of contributing to open source projects
 - Code contributions.
 - Documentations.
 - Design.
