@@ -63,14 +63,14 @@ Coding standards
 
 Serialization is the process of converting a data object into a series of bytes that saves the state of the object in an easily transmittable form.
 
-JSON: key-value pairs 
-XML: A markup language  
-CSV: A simple text format  
-YAML: human-readable format
-Protobuf: A compact binary format  
-Apache Avro: schema evolution & cross-language integration
-MessagePack
-Customer binary 
+- JSON: key-value pairs 
+- XML: A markup language  
+- CSV: A simple text format  
+- YAML: human-readable format
+- Protobuf: A compact binary format  
+- Apache Avro: schema evolution & cross-language integration
+- MessagePack
+- Customer binary 
 
 Popular programming languages with serialization support: 
 Java, .NET, C++, Node.js, Python, and Go
@@ -79,7 +79,7 @@ Java, .NET, C++, Node.js, Python, and Go
 
 -----------------------------------------------------------------
 
-    Software architecture.
+## Software architecture.
 
 1. Scalable code
 2. Database design
@@ -93,7 +93,7 @@ Java, .NET, C++, Node.js, Python, and Go
 
 -----------------------------------------------------------------
 
- API intergration.
+# API intergration.
 
 Application Programming Interface (APIs)
 
@@ -135,7 +135,7 @@ Encoded in base64
 
 -----------------------------------------------------------------
 
-  Version Control.    
+z# Version Control.    
 
 Git
 
@@ -159,7 +159,7 @@ Gitlab 
 Bitbucket 
 -----------------------------------------------------------------
 
-Backend development 
+# Backend development 
 
 
 
@@ -172,7 +172,7 @@ Manifest - https://manifest.build/
 
 -----------------------------------------------------------------
 
-No code development 
+# No code development 
 
 
 - Software development using AI tools and other automation tools
@@ -183,7 +183,7 @@ N8n - n8n.io
 
 -----------------------------------------------------------------
 
-Team Collaboration.
+# Team Collaboration.
 
 - Note taking 
 - Whiteboarding
@@ -196,7 +196,7 @@ AFFiNE - affine.pro
 
 -----------------------------------------------------------------
 
-Content Management Systems(CMS) 
+# Content Management Systems(CMS) 
 
 
 Wordpress- wordpress.com
@@ -206,7 +206,7 @@ Payload - payloadcms.com
 
 -----------------------------------------------------------------
 
-Community involvement.
+# Community involvement.
 
 1. Open source contribution 
        - Github
