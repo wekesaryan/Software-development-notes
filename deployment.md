@@ -110,18 +110,20 @@ Infrastructure-as-code
 
 # Documentation & Licensing.
 
-Types of licensing 
- - Open source license 
-        - Public domain license
-        - GNU
-        - 
- - Commercial 
-          - Proprietary license
-          - Subscriptions
-          - Usage-based
-          - perpetual licensing
+## Types of licensing 
 
-Samples - tldrlegal.com/
+### Open source license 
+  - Public domain license
+  - GNU
+   
+### Commercial 
+  - Proprietary license
+  - Subscriptions
+  - Usage-based
+  - perpetual licensing
+
+
+Samples Licences - tldrlegal.com/
 
 --------------------------------------------
 
