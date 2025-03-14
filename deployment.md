@@ -1,7 +1,7 @@
 - The process of making new or updated software available to users, encompassing activities like provisioning environment, installing software, testing and monitoring.
 
 
- # Methods of deployment 
+# Methods of deployment 
 - Cloud
 - Self host
 - Github
@@ -9,7 +9,8 @@
 
 
 
-     Tools
+### Tools
+
 - Automation tools 
 Docker
 Makefiles
@@ -90,13 +91,13 @@ e) Language specific 
 - Github
 
 
-     Serverless 
+### Serverless 
 - Vercel
 - Netlify
 - Cloudflare 
 
 
-Infrastructure-as-code
+### Infrastructure-as-code
 - Terraform
 - Pulumi
 - Ansible 
@@ -113,14 +114,16 @@ Infrastructure-as-code
 ## Types of licensing 
 
 ### Open source license 
-  - Public domain license
-  - GNU
+
+- Public domain license
+- GNU
    
 ### Commercial 
-  - Proprietary license
-  - Subscriptions
-  - Usage-based
-  - perpetual licensing
+
+- Proprietary license
+- Subscriptions
+- Usage-based
+- perpetual licensing
 
 
 Samples Licences - tldrlegal.com/
