@@ -1,57 +1,111 @@
-📌Always design before coding.
-      Types 
-a) Low level design 
-b) High level design 
+Creating a detailed design for your software, considering both functional and non-functional requirements.
 
-----------------------------------------------
+📌Always design before coding.
+
+
+## Types of Design 
+1. Low level design 
+2. High level design 
+
+
+### Design Tools
+- Class Diagrams
+- Cloud collaboration 
+- Data flow diagrams(DFD)
+- Entity-Relationship(ER) Diagrams 
+- Flow charts
+- Prototyping 
+- Sequence diagrams 
+- State Machine Diagrams 
+- Unified Modelling Language(UML) diagrams
+
+
+
+## Class Diagrams 
+Model system classes and relationships
+
+
+
+---
+
+## Cloud collaboration 
+
+When working as a team, its important for online collaboration.
+
 
 ### Tools
-
- - Data flow diagrams
- - UML diagrams
- - Flow charts
- - Sequence diagrams 
+- figma.com
 
 
-Pseudo code/ flow chart   
+
+------
+
+## Data flow diagrams
+
+Visualize the flow of data through a system.
+
+DFD tools
+- online.visual-paradigm.com
+- smartdraw.com
+
+
+----
+
+## Flow chart /Pseudo code
 - Step by step procedures to solve the problem.
 
-Cloud collaboration tools
-   - Figma
 
-----------------------------------------------
 
-### Legal Documents 
+
+---
+
+## Sequence Diagrams 
+
+Model system interactions and sequence of events.
+
+
+---
+
+## State Machine Diagrams 
+
+
+
+
+----
+
+## Unified Modelling Language(UML) diagrams
+
+
+
+
+---------------------------------------------------------------
+
+Legal Design Documents 
 
 Design Documents Specifications (DDS)
 Prototyping
 
 
 
------------------------------------------------------
-
-### Code generation tools
-
-Scriptcase
-Canva
-Yeoman
-Hygen
-Create-react-app
-Vue CLI
-Angular CLI
-React native CLI
-Ionic CLI
-Swagger codegen
-OpenAPI generators 
-JHipster
-Entity framework core power tools
 
 
 
 
---------------------------------------------
+
+-----------------------------------------------------------------
+
+References & Resources 
+
+Books 
+-
+
+Videos
+-
+
+Websites
+-
 
 
 
-            
+
 
