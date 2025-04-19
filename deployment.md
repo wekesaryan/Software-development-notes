@@ -9,15 +9,6 @@
 
 
 
-### Tools
-
-- Automation tools 
-Docker
-Makefiles
-Jenkins
-- Installer builders (.exe, .apk etc)
-- Domain & hosting platforms 
--
 
 -----------------------------------------------------------------
 
@@ -29,24 +20,12 @@ Tools
 - Kubernetes
 - LXC
 
-Official docker images
-Alpine
-Nginx
-Busybox
-Ubuntu
-Python 
-Wordpress 
-Node
-Httpd
-Postgres
-Mongo
-Debisn
-Mariadb
-Mysql
-$docker image ls -q
+
+      $docker image ls -q
 
 
-Turn a Git repo into a collection of interactive notebooks. mybinder.org
+Turn a Git repo into a collection of interactive notebooks. 
+- [My Binder](https://mybinder.org)
 
 
 
@@ -55,22 +34,22 @@ Turn a Git repo into a collection of interactive notebooks. mybinder.org
 # Installer builders.
 
   a) Windows 
-Inno Setup
-Nullsoft Scripptable Install system (NSIS)
-Wix toolset
+- Inno Setup
+- Nullsoft Scripptable Install system (NSIS)
+- Wix toolset
 
    b) Mac OS
-DMG canvas
-Packages
+- DMG canvas
+- Packages
 
   c) Linux
-Makeself
-Debian package tools
-RPM package manager
+- Makeself
+- Debian package tools
+- RPM package manager
 
    d) Cross platform
-Electon Builder
-InstallBuilder
+- Electon Builder
+- InstallBuilder
 
 e) Language specific 
 - Python
@@ -80,8 +59,29 @@ e) Language specific 
 
 -----------------------------------------------------------------
 
-# Cloud providers/ Domain and hosting. 
 
+# Cloud providers/ Domain and hosting. 
+
+Cloud computing enables scalable, cost-efficient application deployment. 
+
+Compute Services For running applications.
+- EC2
+- Lambda
+- App Engine
+
+
+
+
+## Storage Solutions
+- Simple storage solutions (S3)
+- Blob Storage
+
+
+
+## Major cloud providers
+- AWS
+- Microsoft Azure
+- Google cloud providers (GCP)
 - Python everywhere 
 - Heroku servers
 - VPS providers
@@ -91,13 +91,14 @@ e) Language specific 
 - Github
 
 
-### Serverless 
+## Serverless Architectures
+ Reduce infrastructure management with serverless computing.
 - Vercel
 - Netlify
 - Cloudflare 
 
 
-### Infrastructure-as-code
+## Infrastructure-as-a-code
 - Terraform
 - Pulumi
 - Ansible 
@@ -126,7 +127,8 @@ e) Language specific 
 - perpetual licensing
 
 
-Samples Licences - tldrlegal.com/
+Samples Licences 
+- [TL;dr Legal](https://tldrlegal.com/)
 
 --------------------------------------------
 
